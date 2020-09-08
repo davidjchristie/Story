@@ -1,0 +1,1 @@
+this is file3 being changed for git example
